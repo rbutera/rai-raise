@@ -489,10 +489,10 @@
           "verbose": "Disabled"
         },
         {
-          "keyCode": 65535,
-          "label": "",
-          "extraLabel": "TRANS",
-          "verbose": "Transparent"
+          "keyCode": 22733,
+          "label": "PLAY",
+          "extraLabel": "Media",
+          "verbose": "Play / pause"
         },
         {
           "keyCode": 49226,
@@ -594,22 +594,16 @@
           "verbose": "Next track"
         },
         {
-          "keyCode": 23786,
-          "label": "VOL-",
-          "extraLabel": "Media",
-          "verbose": "Volume down"
+          "keyCode": 104,
+          "label": "F13"
         },
         {
-          "keyCode": 23785,
-          "label": "VOL+",
-          "extraLabel": "Media",
-          "verbose": "Volume up"
+          "keyCode": 105,
+          "label": "F14"
         },
         {
-          "keyCode": 22733,
-          "label": "PLAY",
-          "extraLabel": "Media",
-          "verbose": "Play / pause"
+          "keyCode": 106,
+          "label": "F15"
         },
         {
           "keyCode": 0,
@@ -652,8 +646,10 @@
           "extraLabel": "Numpad"
         },
         {
-          "keyCode": 82,
-          "label": "↑"
+          "keyCode": 23785,
+          "label": "VOL+",
+          "extraLabel": "Media",
+          "verbose": "Volume up"
         },
         {
           "keyCode": 224,
@@ -725,16 +721,22 @@
           "verbose": "AltGr"
         },
         {
-          "keyCode": 80,
-          "label": "←"
+          "keyCode": 22710,
+          "label": "TRACK-",
+          "extraLabel": "Media",
+          "verbose": "Prev. track"
         },
         {
-          "keyCode": 81,
-          "label": "↓"
+          "keyCode": 23786,
+          "label": "VOL-",
+          "extraLabel": "Media",
+          "verbose": "Volume down"
         },
         {
-          "keyCode": 79,
-          "label": "→"
+          "keyCode": 22709,
+          "label": "TRACK+",
+          "extraLabel": "Media",
+          "verbose": "Next track"
         }
       ],
       [
@@ -5433,9 +5435,9 @@
       12,
       7,
       7,
-      4,
-      4,
-      1,
+      8,
+      8,
+      8,
       6,
       3,
       7,
@@ -5450,7 +5452,7 @@
       8,
       8,
       8,
-      6,
+      1,
       15,
       11,
       10,
